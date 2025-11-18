@@ -1,0 +1,6 @@
+module qtController
+typeinfo appqtController.qmltypes
+prefer :/qt/qml/qtController/
+Main 1.0 Main.qml
+depends QtQuick
+

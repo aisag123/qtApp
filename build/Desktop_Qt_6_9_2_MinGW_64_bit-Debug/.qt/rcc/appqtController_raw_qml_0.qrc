@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qtController/">
+    <file alias="Main.qml">C:/Users/mtsag/workspace/qtController/Main.qml</file>
+  </qresource>
+</RCC>
+

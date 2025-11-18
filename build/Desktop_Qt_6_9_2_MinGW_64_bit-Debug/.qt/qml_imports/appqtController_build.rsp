@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/mtsag/workspace/qtController
+-cmake-output
+-output-file
+C:/Users/mtsag/workspace/qtController/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/qml_imports/appqtController_build.cmake
+-importPath
+C:/Users/mtsag/workspace/qtController/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/qtController
+-importPath
+C:/Users/mtsag/workspace/qtController/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.2/mingw_64/qml
+-qrcFiles
+C:/Users/mtsag/workspace/qtController/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qmake_qtController.qrc
+C:/Users/mtsag/workspace/qtController/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appqtController_raw_qml_0.qrc
